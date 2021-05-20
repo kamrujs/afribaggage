@@ -39,8 +39,9 @@
     #baggage_sec .baggage_img {
         position: absolute;
         z-index: 1;
-        left: -50%;
+        left: 0;
         bottom: -25%;
+        width: 100%;
     }
 
     #baggage_sec .bgg {
@@ -166,7 +167,6 @@
         position: relative;
         padding: 10px 10px 20px;
         width: auto;
-        height: 165px;
     }
 
     #faq .post .description {
