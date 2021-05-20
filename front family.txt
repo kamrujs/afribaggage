@@ -1,0 +1,41 @@
+font-family: 'Montserrat', sans-serif;
+
+font-family: 'Oswald', sans-serif;
+
+font-family: 'Roboto Condensed', sans-serif;
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Abel', sans-serif;
+
+font-family: 'Source Sans Pro', sans-serif;
+
+font-family: 'Poppins', sans-serif;
+
+font-family: 'Raleway', sans-serif;
+
+font-family: 'Lato', sans-serif;
+
+font-family: 'Bebas Neue', cursive;
+
+
+============================ Premium Fronts ===========================
+
+font-family: 'Avenir LT Std';
+
+ font-family: 'Ballinger Condensed';
+
+ font-family: 'Bebas Neue';
+
+ font-family: 'SF Pro Text';
+
+font-family: 'Objective';
+
+ font-family: 'Helvetica Neue';
+
+ font-family: 'Poppins';
+ 
+ font-family: 'Portada';
+ 
+============================ Premium Fronts ===========================
+

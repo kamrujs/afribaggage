@@ -1,0 +1,491 @@
+/*  */
+
+
+@media (min-width:320px) and (max-width:575.98px) {
+
+
+    body {
+        /* overflow-x: hidden; */
+    }
+
+    /* ====================== langing page ====================== */
+    nav a {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    nav a img {
+        width: 60%;
+    }
+
+    #banner_top .bt_bg {
+        margin: 10px auto 30px;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    #banner_top p {
+        font-size: 10px;
+        line-height: 12px;
+        margin-bottom: 5px;
+    }
+
+    #banner_top h2 {
+        font-size: 16px;
+        line-height: 15px;
+    }
+
+    #baggage_sec .baggage_img {
+        position: absolute;
+        z-index: 1;
+        left: -50%;
+        bottom: -25%;
+    }
+
+    #baggage_sec .bgg {
+        z-index: 5;
+        background: #FFFFFF;
+        opacity: 0.9;
+        padding-bottom: 50px;
+    }
+
+    #faq {
+        margin-top: 160px;
+    }
+
+    #faq .nav-item {
+        width: 25%;
+    }
+
+    #faq ul {
+        padding: 0 20px;
+    }
+
+    #faq ul li img {
+        width: 100%;
+    }
+
+    #faq .nav-tabs button {
+        margin: 0;
+    }
+
+    #faq .left {
+        margin: 0 10px;
+        background: #EBEBEB;
+        border-radius: 6px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    #faq .who_we .left p span {
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    #faq .who_we .left .bottom {
+        margin-bottom: 0;
+    }
+
+    #faq .who_we .left h2 {
+        font-size: 27px;
+    }
+
+    #faq .who_we .right {
+        display: none;
+    }
+
+    #faq .who_we .we_slider h4 {
+        width: 85%;
+        background: #ffffffd4;
+        color: #000;
+        bottom: 30px;
+        padding: 10px;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+    #faq .book_slot {
+        width: 90%;
+        height: 60px;
+        line-height: 60px;
+        display: block;
+        font-size: 20px;
+        letter-spacing: 0;
+        margin: 50px auto 0;
+    }
+
+    #faq .tittle {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    #faq .how-it h4 {
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center;
+    }
+
+    #faq .how-it p {
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    #faq .sm-bg {
+        background: #EBEBEB;
+        border-radius: 6px;
+        padding: 20px;
+    }
+
+    #faq .how-it ul li {
+        margin-bottom: 20px;
+        width: auto;
+    }
+
+    #faq .faques h5 {
+        font-size: 16px;
+    }
+
+    #faq .faques p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    #faq .row_sm_rev {
+        flex-direction: column-reverse;
+    }
+
+    #faq .testi_slider {
+        padding: 40px 10px 50px;
+    }
+
+    #faq .post {
+        position: relative;
+        padding: 10px 10px 20px;
+        width: auto;
+        height: 165px;
+    }
+
+    #faq .post .description {
+        font-size: 12px;
+        line-height: 18px;
+        margin: 10px 0 12px;
+    }
+
+    #faq .post .count ul li {
+        font-size: 12px;
+        margin: 0 21px;
+    }
+
+    footer {
+        background: #f6f6f6;
+        padding: 16px 0;
+        margin-top: 70px;
+    }
+
+    footer a {
+        font-size: 9px;
+        line-height: 0;
+        margin-left: 10px;
+    }
+
+    footer .left {
+        font-size: 9px;
+        line-sheight: 0;
+    }
+
+    /* ====================== langing page ====================== */
+
+
+    /* ====================== order page 2 page ====================== */
+    header {
+        padding-bottom: 15px;
+    }
+
+    header .sm-width-logo {
+        width: 20%;
+    }
+
+    header .sm-width-logo img {
+        width: 150%;
+    }
+
+    header .sm-width-banner {
+        width: 80%;
+    }
+
+    #order_line .order_cercle {
+        width: 20px;
+        height: 20px;
+    }
+
+    #order_line {
+        height: 7px;
+        margin-bottom: 50px;
+    }
+
+    #order_line .right_cercle {
+        right: 40px;
+    }
+
+    #order_line .left_cercle {
+        left: 40px;
+    }
+
+    #order_line .un_cercle {
+        width: 15px;
+        height: 15px;
+    }
+
+    #order_line .order_cercle h2 {
+        font-size: 10px;
+    }
+
+    #order_line .order_cercle h4 {
+        font-size: 9px;
+        bottom: -35px;
+        width: 50px;
+        line-height: 13px;
+    }
+
+    #banner .sm-img {
+        width: 30%;
+        padding: 0;
+    }
+
+    #banner .sm-descption {
+        width: 70%;
+        padding: 0;
+    }
+
+    #banner .money_back {
+        display: none;
+    }
+
+    #banner .descption {
+        padding: 0;
+    }
+
+    #banner .descption h2 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    #banner .descption h4 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    #banner .transform {
+        transform: translateY(-12%);
+        background: #fff;
+        padding-top: 25px !important;
+    }
+
+    #banner .descption p {
+        font-size: 12px;
+        line-height: 14px;
+        margin-bottom: 10px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    #banner .descption .lock_button {
+        font-size: 30px;
+        height: 65px;
+        line-height: 65px;
+        width: auto;
+        margin: 80px auto 20px;
+    }
+
+    #banner .descption .thank_msg {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+
+    #book_spot h2 {
+        font-size: 15px;
+    }
+
+    #book_spot .bar .red_bar {
+        height: 30px;
+    }
+
+    #book_spot .bar .red_bar p {
+        font-size: 10px;
+
+    }
+
+    #book_spot .bar .green_bar {
+        height: 30px;
+    }
+
+    #book_spot .left .kgs {
+        margin-left: 85px;
+    }
+
+    #book_spot .right p {
+        font-size: 12px;
+    }
+
+    #book_spot .right {
+        margin-top: 20px;
+    }
+
+    #book_spot .right .discount_price {
+        margin-top: 15px;
+    }
+
+    #book_spot .bank_res_bg {
+        padding: 20px;
+    }
+
+    #book_spot .bank_res h4 {
+        font-size: 18px;
+    }
+
+    #book_spot .bank_res p {
+        font-size: 10px;
+    }
+
+    #book_spot .bank_res h2 {
+        font-size: 32px;
+    }
+
+    /* ====================== order page 2 page ====================== */
+
+    /* ====================== order page 2 page ====================== */
+    #order_msg h4 {
+        font-size: 28px;
+    }
+
+    #order_msg p {
+        font-size: 16px;
+        line-height: 24px;
+        color: #444444;
+        width: auto;
+    }
+
+    #order_summery h2 {
+        display: none;
+    }
+
+    #order_summery .order_sm h4 {
+        font-size: 31px;
+        line-height: 0;
+        letter-spacing: 0em;
+        padding: 24px 0;
+        margin-left: 0;
+        padding-left: 78px;
+    }
+
+    #order_summery .download_icon i {
+        font-size: 15px;
+        margin-left: 10px;
+    }
+
+    #order_summery .sm-width {
+        width: 50%;
+    }
+
+    #order_summery .adress h4 {
+        font-size: 9px;
+        line-height: 11px;
+        letter-spacing: 0;
+        padding: 10px 10px;
+        padding-right: 0;
+    }
+
+    #order_summery .adress ul li {
+        font-size: 9px;
+        line-height: 15px;
+    }
+
+    #order_summery .adress ul {
+        padding: 10px;
+    }
+
+    #order_summery .memo h4 {
+        font-size: 9px;
+    }
+
+    #order_summery .memo p {
+        font-size: 8px;
+        line-height: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .table> :not(caption)>*>* {
+        padding: 2px;
+    }
+
+    #order_summery .memo tr td {
+        font-size: 9px;
+        line-height: 22px;
+    }
+
+    #order_summery .memo {
+        padding: 6px;
+        height: auto;
+    }
+
+    #order_summery .memo tr .coustom {
+        line-height: 10px;
+    }
+
+    #order_summery .voucher_bottom {
+        font-size: 8px;
+        line-height: 34px;
+        bottom: -16px;
+        left: 16%;
+        padding: 0 15px;
+    }
+
+    #order_summery .voucher {
+        padding-bottom: 0;
+        margin-bottom: 30px;
+    }
+
+    #order_summery .contact {
+        font-size: 10px;
+    }
+
+    #order_summery .contact .number {
+        font-size: 18px;
+        line-height: 50px;
+        height: 50px;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    #order_summery .contact .number i {
+        margin-right: 7px;
+        padding-right: 7px;
+        line-height: 20px;
+    }
+
+    #order_summery .wer_adress {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* ====================== order page 2 page ====================== */
+
+
+
+
+
+
+
+
+
+
+    /* --------------------------------- */
+}
+
+/*  */

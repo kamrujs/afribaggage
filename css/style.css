@@ -1,0 +1,1996 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+/* -------Nav start here */
+nav a {
+    margin: 0 auto;
+    margin-top: 47px;
+}
+
+nav a img {
+    width: 100%;
+}
+
+/* -------Nav end here */
+
+
+/* -------banner_top start here */
+#banner_top .bt_bg {
+    margin: 0 auto;
+    background: url(../images/top_banner.png) no-repeat center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-top: 45px;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+#banner_top p {
+    font-family: 'Avenir LT Std';
+    color: #000000;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 28px;
+    letter-spacing: 0px;
+    margin-bottom: 12px;
+}
+
+#banner_top p span {
+    display: block;
+}
+
+#banner_top h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #FD1405;
+}
+
+#banner_top h2 span {
+    color: #34B406;
+}
+
+#banner_top .circles {
+    position: absolute;
+    top: 69%;
+    left: 47%;
+    transform: translateX(-50%);
+}
+
+/* -------banner_top end here */
+
+/* ------- baggage_sec start here */
+#baggage_sec {
+    margin-bottom: 120px;
+    position: relative;
+}
+
+#baggage_sec .massage {
+    font-family: 'Ballinger Condensed';
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #6A6A6A;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#baggage_sec .massage span {
+    display: block;
+}
+
+#baggage_sec .more {
+    font-family: 'Ballinger Condensed';
+    font-size: 47px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #FF1600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#baggage_sec .secure {
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.5px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #484848;
+    margin-bottom: 10px;
+}
+
+#baggage_sec .secure .bold {
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+#baggage_sec .secure .less {
+    display: block;
+}
+
+#baggage_sec .amount {
+    font-family: 'Ballinger Condensed';
+    font-size: 64px;
+    line-height: 75px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #0A62A9;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+#baggage_sec .click {
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #484848;
+    margin-bottom: 30px;
+}
+
+#baggage_sec .click span {
+    display: block;
+}
+
+#baggage_sec .button {
+    width: 310px;
+    height: 75px;
+    background: #FF1502;
+    display: block;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 75px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    margin: 0 auto;
+}
+
+/* ------- baggage_sec end here */
+
+
+
+/* ------- FAQ end here */
+#faq .tab-content {
+    padding-top: 45px;
+}
+
+#faq .nav-tabs {
+    justify-content: center;
+}
+
+#faq .nav-tabs button {
+    margin: 0 45px;
+}
+
+/* --who we are-- */
+#faq .who_we .left h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 80px;
+    letter-spacing: -0.07em;
+    text-transform: uppercase;
+    color: #25292C;
+
+}
+
+#faq .who_we .left p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #000;
+}
+
+#faq .who_we .left p span {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 90px;
+}
+
+#faq .who_we .left .bottom {
+    margin-bottom: 45px;
+}
+
+#faq .who_we .right h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    width: 365px;
+    text-align: left;
+
+}
+
+#faq .who_we .right .shape {
+    display: block;
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+
+#faq .who_we .item {
+    position: relative;
+}
+
+#faq .who_we .item img {
+    border: 4px solid #fff;
+    width: 100%;
+}
+
+#faq .who_we .we_slider h4 {
+    width: 355px;
+    height: 65px;
+    background: #fff;
+    color: #000;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 20px;
+    font-family: 'Avenir LT Std';
+    font-size: 18px;
+    font-weight: 750;
+    line-height: 25px;
+    letter-spacing: 0.015em;
+    text-transform: uppercase;
+}
+
+#faq .book_slot {
+    width: 718px;
+    height: 112px;
+    background: #FA8729;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 112px;
+    display: block;
+
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    letter-spacing: 0.065em;
+    color: #fff;
+    margin: 165px auto 0;
+}
+
+/* --who we are-- */
+
+
+/* --how it work-- */
+#faq .how-it ul li {
+    margin-bottom: 40px;
+    width: 940px;
+}
+
+#faq .tittle {
+    font-family: 'Avenir LT Std';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 80px;
+    letter-spacing: -0.07em;
+    text-transform: uppercase;
+    color: #000;
+}
+
+#faq .how-it h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 84px;
+    letter-spacing: 0em;
+    color: #808080;
+}
+
+#faq .how-it p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    color: #000;
+}
+
+#faq .how-it p span {
+    color: #808080;
+}
+
+#faq .how-it .fa_link {
+    color: #000;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+/* --how it work-- */
+
+
+/* --how it work-- */
+#faq .faques ul li {
+    margin-bottom: 20px;
+}
+
+#faq .faques h5 {
+    font-family: 'Avenir LT Std';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+}
+
+#faq .faques p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+}
+
+#faq .faques h4 {
+    font-family: 'Avenir LT Std';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #808080;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#faq .faques .book_slot {
+    background: #FB1500;
+}
+
+/* --how it work-- */
+
+
+/* --testimonial-- */
+
+#faq .bg_color {
+    background: #F8F8F8;
+}
+
+
+#faq .post {
+    position: relative;
+    padding: 13px 16px 32px;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.28);
+    width: 502px;
+    height: 205px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+#faq .post .name {
+    padding-left: 50px;
+}
+
+#faq .post .profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    left: 16px;
+    top: 10px;
+}
+
+#faq .post h4 {
+    font-family: 'Helvetica Neue';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.025em;
+    text-align: left;
+    color: #080808;
+
+}
+
+#faq .post .date {
+    font-family: 'Helvetica Neue';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    color: #66676B;
+
+}
+
+#faq .post .description {
+    font-family: 'Helvetica Neue';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #080808;
+    margin: 13px 0 20px;
+}
+
+#faq .post .dots {
+    position: absolute;
+    right: 26px;
+    top: 25px;
+}
+
+#faq .post .count ul {
+    padding: 10px 0;
+    border-top: 1px solid #BCBCBC;
+    border-bottom: 1px solid #BCBCBC;
+}
+
+#faq .post .count ul li {
+    display: inline-block;
+    font-family: 'Helvetica Neue';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    margin: 0 43px;
+    color: #66676B;
+}
+
+#faq .testi_slider {
+    padding: 70px 40px 100px;
+}
+
+#faq .testi_slider img {
+    width: 100%;
+}
+
+#faq .testi_slider ul {
+    display: block;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#faq .testi_slider ul li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#faq .testi_slider ul li button {
+    font-size: 0;
+    border: none;
+    width: 12px;
+    height: 12px;
+    background: #E9E9E9;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+#faq .testi_slider .slick-active button {
+    width: 22px;
+    height: 22px;
+    background: #FA8729;
+}
+
+/* --testimonial-- */
+/* ------- FAQ end here */
+
+
+
+
+/* ------- footer end here */
+footer {
+    background: #f6f6f6;
+    padding: 52px 0;
+    margin-top: 87px;
+}
+
+footer .left {
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    color: #808080;
+}
+
+footer a {
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    color: #000;
+    display: inline-block;
+    margin-left: 40px;
+    text-decoration: underline !important;
+    transition: .3s;
+}
+
+footer a:hover {
+    color: #808080;
+}
+
+/* ------- footer end here */
+/* ============================================= landing page ============================================= */
+
+
+
+/* ============================================= Order Page shipment ============================================= */
+
+.flip-clock-wrapper ul {
+    width: 45px;
+    height: 60px;
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.flip-clock-wrapper {
+    margin: 0;
+}
+
+.flip-clock-wrapper ul li {
+    line-height: 60px;
+}
+
+.flip-clock-dot.top {
+    top: 18px;
+}
+
+.flip-clock-dot.bottom {
+    bottom: 45px;
+}
+
+.flip-clock-wrapper ul li a div {
+    font-size: 50px !important;
+}
+
+.flip-clock-divider .flip-clock-label {
+    top: 80px;
+    right: -90px;
+}
+
+.flip-clock-divider.minutes .flip-clock-label {
+    right: -100px;
+}
+
+.flip-clock-divider.seconds .flip-clock-label {
+    right: -100px !important;
+}
+
+.flip-clock-wrapper {
+    font: normal 25px "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.ship_header {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+header .ship {
+    font-family: 'Avenir LT Std';
+    font-size: 19px;
+    line-height: 12px;
+    letter-spacing: 0px;
+    text-align: right;
+}
+
+/* -------order_top */
+#order_top .main {
+    display: flex;
+    background: #21AEFB;
+
+}
+
+#order_top .secqure {
+    width: 24%;
+    position: relative;
+    padding: 30px 10px 30px 115px;
+    border-right: 3px solid #1E9DE2;
+}
+
+#order_top .secqure img {
+    position: absolute;
+    top: -25px;
+    left: 15px;
+}
+
+#order_top .secqure h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 59px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#order_top .secqure h4 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    color: #14353F;
+    text-transform: uppercase;
+}
+
+#order_top .country {
+    width: 20%;
+    text-align: left;
+    padding-left: 55px;
+    padding-top: 16px;
+}
+
+#order_top .country {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 37px;
+    letter-spacing: 1px;
+    color: #FEFEFC;
+}
+
+
+#order_top .chat {
+    width: 50%;
+    background: #fff;
+    height: 117px;
+    margin: auto;
+    border-radius: 8px;
+    padding: 12px 15px;
+    display: flex;
+}
+
+#order_top .chat .phone {
+    width: 50%;
+    text-align: center;
+}
+
+#order_top .chat .img {
+    width: 25%;
+}
+
+#order_top .chat .online {
+    width: 25%;
+}
+
+#order_top .img img {
+    transform: translateY(-32%);
+    margin: 0 10px;
+}
+
+#order_top .phone p {
+    font-family: 'SF Pro Text';
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.3491124212741852px;
+    display: block;
+}
+
+#order_top .phone .num {
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: -0.3491124212741852px;
+    font-family: 'Bebas Neue';
+    display: block;
+    color: #21678D;
+}
+
+#order_top .phone .tex {
+    font-family: 'SF Pro Text';
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.3491124212741852px;
+    color: #AF6F6C;
+}
+
+#order_top .chat .online h4 span {
+    display: block;
+}
+
+#order_top .chat .online h4 {
+    font-family: 'Objective';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -1.047337293624878px;
+    text-align: center;
+    color: #509D58;
+}
+
+#order_top .chat .online h3 .fa-circle {
+    color: #1DF932;
+}
+
+#order_top .chat .online h3 {
+    font-family: 'SF Pro Text';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #6D6B6B;
+}
+
+#order_top .succ_msg {
+    padding: 15px 0;
+    background: #323234;
+    margin-top: 40px;
+}
+
+#order_top .succ_msg p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #EDEDED;
+    width: 850px;
+    margin: 0 auto;
+}
+
+#order_form .number,
+.form-bg {
+    background: #B7ECFD;
+    padding: 40px;
+    margin: 10px 0;
+    position: relative;
+}
+
+#order_form .number-de {
+    font-family: 'Avenir LT Std';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+    color: #000;
+    margin: 20px 0;
+}
+
+#order_form .number .bar {
+    background: #fff;
+    border-radius: 5px;
+    height: 50px;
+}
+
+#order_form .bar .left {
+    width: 30%;
+}
+
+#order_form .bar i {
+    background: transparent;
+    border: none;
+    padding: 15px 20px 0 20px;
+}
+
+#order_form .bar select {
+    background: transparent;
+    border: none;
+    padding: 15px 0;
+}
+
+#order_form .bar input {
+    background: transparent;
+    border: none;
+    height: 100%;
+}
+
+#order_form .bar {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.015em;
+    text-align: left;
+}
+
+#order_form .form-bg p {
+    font-family: 'Avenir LT Std';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: #000;
+    margin: 25px 0;
+}
+
+#order_form .box {
+    position: relative;
+    margin-top: 30px;
+}
+
+#order_form .box input:checked~.checkmark {
+    background-color: #04AA6D;
+}
+
+#order_form .box #checkbox {
+    width: 20px;
+    height: 20px;
+}
+
+#order_form .box .boc-child {
+    width: 85px;
+    height: 37px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+}
+
+#order_form .head {
+    font-family: 'SF Pro Text';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+#order_form .box .head {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+#order_form .head span {
+    position: absolute;
+    left: 20px;
+    bottom: -30px;
+    font-family: 'Avenir LT Std';
+    font-size: 16px;
+    line-height: 48px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #F00;
+}
+
+#order_form .option {
+    position: absolute;
+    left: 20px;
+}
+
+#order_form .pack_bg h5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: #FEF996;
+    width: 100%;
+    padding-right: 150px;
+    padding: 14px 130px 14px 20px;
+    position: relative;
+}
+
+#order_form .pack_bg h5 span {
+    color: #03A438;
+    font-size: 25px;
+    font-weight: 800;
+    position: absolute;
+    top: 37%;
+    right: 20px;
+    margin-bottom: 10px;
+}
+
+#order_form .pack_bg {
+    padding: 20px;
+    background: #fff;
+    margin-top: 20px;
+    height: 280px;
+    border: 2px dashed #DCDCDD;
+}
+
+#order_form .pack_bg p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    color: #000;
+    margin-left: 135px;
+    transform: translateY(-100%);
+}
+
+#order_form .form-bg .name {
+    display: inline-block !important;
+    margin-right: 25px;
+    width: 100px;
+}
+
+#order_form .form-bg .holder {
+    margin: 12px 0;
+}
+
+#order_form .form-bg .holder input {
+    width: 315px;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#order_form .form-bg .p-c {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    color: #3d3d3d;
+    margin-top: 20px;
+}
+
+#order_form .form-bg .pos-ch {
+    position: absolute;
+    right: 25px;
+    top: 40%;
+}
+
+#order_form tr td:first-child {
+    text-align: left;
+}
+
+#order_form .next {
+    font-family: 'Objective';
+    font-size: 54px;
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: -0.095em;
+    color: #100401;
+    Width: 369px;
+    Height: 103px;
+    Radius: 6px;
+    background: #FECB33;
+    border: 1px solid #B8B8B8;
+    box-sizing: border-box;
+    border-radius: 6px;
+    display: inline-block;
+    text-align: center;
+    line-height: 103px;
+    margin-top: 50px;
+}
+
+#order_form .shipment_ba {
+    width: 100%;
+    margin-top: 20px;
+}
+
+#order_form .spcial {
+    font-family: 'Portada';
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #3890C2;
+    margin-top: 60px;
+}
+
+#order_form .dis {
+    font-family: 'Portada';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #CD9B6C;
+}
+
+#order_form .dis span {
+    color: #7E7E7E;
+}
+
+#order_form .banner {
+    background: url(../images/overlay.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    padding: 50px 22px 30px;
+    margin-top: 30px;
+    position: relative;
+}
+
+#order_form .banner .disc {
+    position: absolute;
+    left: 65%;
+    top: 20%;
+}
+
+#order_form .banner .perc {
+    position: absolute;
+    left: 37%;
+    top: 29%;
+}
+
+#order_form .banner h4 {
+    position: absolute;
+    left: 60%;
+    top: 25%;
+    font-family: 'Portada';
+    font-size: 69px;
+    font-style: normal;
+    font-weight: 700;
+    color: #30DD40;
+}
+
+#order_form .banner h6 {
+    position: absolute;
+    left: 64%;
+    top: 40%;
+    font-family: 'Portada';
+    font-size: 25px;
+    font-weight: 700;
+    color: #7E7E7E;
+}
+
+#order_form .banner p {
+    font-family: 'Portada';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    color: #DE004C;
+    margin-top: 50px;
+}
+
+#order_form .order_now .left {
+    padding-right: 20px;
+    margin-right: 7px;
+    border-right: 2px solid #fff;
+}
+
+#order_form .order_now {
+    font-family: 'Bebas Neue';
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 595px;
+    height: 103px;
+    background: radial-gradient(50% 50% at 50% 50%, #FFC34E 0%, #FFAA47 100%);
+    display: inline-block;
+    line-height: 103px;
+    color: #fff;
+    margin: 30px auto 20px;
+}
+
+#order_form .low_price {
+    display: flex;
+    background: #575757;
+    border: 1.5px solid hsl(0, 0%, 34%);
+    box-sizing: border-box;
+    margin: 90px 50px;
+}
+
+#order_form .low_price .img {
+    width: 25%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#order_form .low_price .desp {
+    width: 75%;
+    padding: 20px;
+}
+
+#order_form .desp h4 {
+    font-family: 'SF Pro Text';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 12px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #F0EDEE;
+    margin-bottom: 15px;
+}
+
+#order_form .desp p {
+    font-family: 'Avenir LT Std';
+    font-size: 17px;
+    line-height: 19px;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #F0EDEE;
+}
+
+#order_form .desp p span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#order_form .desp p a {
+    color: #F0EDEE;
+    text-decoration: underline !important;
+}
+
+#order_form .recive_box {
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+
+#order_form .recive_box h4 {
+    font-family: 'Avenir LT Std';
+    font-size: 28px;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #508BAD;
+}
+
+#order_form .recive_box p {
+    font-family: 'Avenir LT Std';
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #787877;
+    width: 450px;
+}
+
+#order_form .recive_box p span {
+    display: block;
+    margin: 15px 0;
+}
+
+#order_form .comments {
+    background: #F8F8F8;
+    padding: 50px;
+}
+
+#order_form .comments h5 {
+    font-family: 'Portada';
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 51px;
+    color: #508BAD;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#order_form .rewiew {
+    position: relative;
+    padding: 30px 0 35px 30px;
+    margin-bottom: 16px;
+    border-bottom: 0.75px solid #000000;
+    padding-right: 150px;
+}
+
+#order_form .rewiew .name {
+    padding-left: 60px;
+}
+
+#order_form .rewiew .profile {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    position: absolute;
+    left: 24px;
+    top: 18px;
+}
+
+#order_form .rewiew span {
+    display: block;
+}
+
+#order_form .rewiew h4 {
+    font-family: 'SF Pro Text';
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0em;
+    color: #0961BE;
+}
+
+#order_form .rewiew .date {
+    font-family: 'Helvetica Neue';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    color: #66676B;
+
+}
+
+#order_form .rewiew .description {
+    font-family: 'Helvetica Neue';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #080808;
+    margin: 13px 0 20px;
+}
+
+#order_form .rewiew a {
+    color: #5E99BE;
+    font-family: 'SF Pro Text';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+
+}
+
+
+/* ============================================= Order Page shipment ============================================= */
+
+
+
+/* ============================================= Order Page 2 ============================================= */
+
+header {
+    padding-bottom: 85px;
+}
+
+/* ------- orderline start */
+#order_line {
+    max-width: 100%;
+    height: 20px;
+    background: #E4E1E4;
+    margin-bottom: 160px;
+}
+
+#order_line .cercle_contain {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#order_line .order_cercle {
+    width: 60px;
+    height: 60px;
+    background: #E4E1E4;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#order_line .left_cercle {
+    position: absolute;
+    left: 140px;
+    top: -100%;
+}
+
+#order_line .mid_cercle {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#order_line .right_cercle {
+    position: absolute;
+    right: 140px;
+    top: -100%;
+}
+
+#order_line .un_cercle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+
+#order_line .left_un_cercle {
+    background: linear-gradient(180deg, #4FC1DA 0%, #3FBBCE 100%);
+}
+
+#order_line .mid_un_cercle {
+    background: linear-gradient(180deg, #FDCC56 0%, #EFB12D 100%);
+}
+
+#order_line .right_un_cercle {
+    background: linear-gradient(180deg, #9E9EA0 0%, #7F7F7F 100%);
+}
+
+
+#order_line .order_cercle h4 {
+    position: absolute;
+    bottom: -65px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-family: 'SF Pro Text';
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0px;
+    width: 150px;
+}
+
+#order_line .order_cercle h2 {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(247, 247, 247);
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+}
+
+/* ------- orderline end */
+
+
+/* ------- banner end */
+#banner .banner_img img {
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+
+#banner .money_back {
+    width: 100%;
+    padding: 25px 10px 20px 15px;
+    background: #409FDA;
+}
+
+#banner .money_back h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 62px;
+    color: #FEFDF9;
+}
+
+#banner .money_back h4 {
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 29px;
+    color: #FEFDF9;
+}
+
+#banner .money_back p {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    color: #FEFDF9;
+    margin-top: 15px;
+}
+
+#banner .transform {
+    transform: translateY(-25%);
+}
+
+#banner .descption {
+    padding-left: 65px;
+    padding-right: 30px;
+}
+
+#banner .descption h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0F68A2;
+}
+
+#banner .descption span {
+    display: block;
+}
+
+
+#banner .descption h4 {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    text-transform: capitalize;
+    color: #444444;
+    margin: 20px 0;
+}
+
+#banner .descption p {
+    font-family: 'Lato', sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #000;
+    margin-bottom: 35px;
+}
+
+#banner .descption .red-text {
+    color: #FF0000;
+}
+
+#banner .descption .lock_button {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    color: #fff;
+    width: 595px;
+    height: 105px;
+    line-height: 105px;
+    display: block;
+    margin: 85px auto;
+    text-align: center;
+    background: radial-gradient(50% 50% at 50% 50%, #FFC34E 0%, #FFAA47 100%);
+    transition: .5s !important;
+}
+
+#banner .descption .thank_msg {
+    font-family: 'Lato', sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #61B0C4;
+    text-decoration: underline;
+    margin-bottom: 90px;
+}
+
+#banner .descption .lock_button:hover {
+    background: radial-gradient(50% 50% at 50% 50%, #fcc456 0%, #ff9823 100%);
+}
+
+/* ------- banner end */
+
+
+/* ------- book-spot end */
+
+#book_spot h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0.035em;
+    text-align: center;
+    color: #000;
+    margin-bottom: 50px;
+}
+
+#book_spot .left {
+    background: #F3F6F9;
+}
+
+#book_spot .left h4 {
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #fff;
+    display: block;
+    background: #A0B2C1;
+    padding: 5px 14px;
+}
+
+#book_spot .left .bar {
+    display: flex;
+    padding: 25px;
+}
+
+#book_spot .bar .red_bar {
+    width: 45%;
+    height: 40px;
+    background: #CB3437;
+    position: relative;
+}
+
+#book_spot .red_bar .arrow {
+    width: 20px;
+    height: 20px;
+    background: #CB3437;
+    clip-path: polygon(0 29%, 60% 29%, 60% 0%, 100% 50%, 60% 100%, 60% 66%, 0 66%);
+    position: absolute;
+    top: 25%;
+    right: -8%;
+}
+
+#book_spot .bar .green_bar {
+    width: 55%;
+    height: 40px;
+    background: #86BB51;
+}
+
+
+#book_spot .bar p {
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #fff;
+    position: absolute;
+    top: 25%;
+    left: 20px;
+}
+
+
+#book_spot .left .bottom {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+    display: inline-block;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+#book_spot .left .kgs {
+    margin-left: 275px;
+}
+
+#book_spot .right {
+    border: 3px dashed #C9614D;
+    padding: 25px 20px;
+}
+
+#book_spot .right p {
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #000;
+}
+
+#book_spot .right .lock_price {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #000;
+}
+
+#book_spot .right .lock_price i {
+    color: #C4C4C4;
+    border: 2px solid #9C9C9C;
+    border-radius: 50%;
+}
+
+#book_spot .right .discount_price {
+    text-align: right;
+    margin-top: 25px;
+}
+
+#book_spot .right .discount_price span {
+    text-decoration: line-through;
+    color: #B3B3B3;
+    margin-right: 15px;
+}
+
+#book_spot .bank_res_bg {
+    background: #F9F9F9;
+    margin-top: 50px;
+    padding: 20px 140px 20px;
+    margin-bottom: 50px;
+}
+
+#book_spot .bank_res h2 {
+    font-family: 'Bebas Neue';
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0.045em;
+    text-align: center;
+    color: #161616;
+}
+
+#book_spot .bank_res p {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: left;
+    color: #444;
+}
+
+#book_spot .bank_res h4 {
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: center;
+    color: #000;
+    width: 100%;
+    height: 60px;
+    margin: 10px auto 25px;
+    background: #fff;
+    text-transform: uppercase;
+    line-height: 60px;
+    border-radius: 6px;
+}
+
+
+#book_spot .bank_res .nxt-btn {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000;
+    background: #FECB33;
+    display: block;
+    padding: 15px 50px;
+    border-radius: 6px;
+    margin: 30px auto;
+    width: 150px;
+}
+
+/* ------- book-spot end */
+
+
+/* ============================================= Order Page 2 ============================================= */
+
+
+
+
+
+
+/* ============================================= last order page ============================================= */
+
+
+
+/* -----------order_msg */
+#order_msg h4 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: -0.5px;
+    color: #0F68A2;
+}
+
+#order_msg h4 span {
+    color: #FF0000;
+}
+
+#order_msg p {
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #444444;
+    width: 475px;
+    margin: 15px auto;
+    text-transform: capitalize;
+}
+
+#order_msg p span {
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+/* -----------order_msg */
+
+
+
+/* -----------order_summery */
+#order_summery h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #0F68A2;
+    margin: 45px 0;
+}
+
+#order_summery .order_sm {
+    background: url(../images/order_sm-bg.png) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+#order_summery .order_sm h4 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 81px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 98px;
+    letter-spacing: 0em;
+    color: #fff;
+    padding: 30px 0;
+    margin-left: 290px;
+}
+
+
+#order_summery .download_icon {
+    text-align: right;
+    margin-bottom: 55px;
+}
+
+#order_summery .download_icon i {
+    font-size: 35px;
+    color: #000;
+    margin-left: 30px;
+}
+
+#order_summery .voucher {
+    padding-bottom: 50px;
+    border-bottom: 1px solid rgb(110, 110, 110);
+    margin-bottom: 100px;
+    position: relative;
+}
+
+#order_summery .voucher_bottom {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: #fff;
+    color: #7A7A7A;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: -16px;
+    left: 25%;
+    padding: 0 15px;
+
+}
+
+
+#order_summery .voucher .sender,
+.reciver {
+    margin-bottom: 50px;
+    background: #F9F9F9;
+}
+
+#order_summery .adress h4 {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0.035em;
+    color: #000;
+    text-transform: uppercase;
+    background: #fff;
+    padding: 20px 30px;
+    box-shadow: 0px 12px 42px -4px #18274B1F;
+    border: 1px solid #E2E2E2;
+    box-shadow: 0px 8px 18px -6px #18274B1F;
+    border-right: 22px solid #FFAF48;
+    border-radius: 5px;
+}
+
+#order_summery .adress ul {
+    padding: 18px 28px;
+}
+
+#order_summery .adress ul li {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+}
+
+#order_summery .adress ul .light_text {
+    color: #7A7A7A;
+}
+
+
+#order_summery .memo {
+    background: #f9f9f9;
+    padding: 20px;
+    height: 705px;
+
+}
+
+#order_summery .memo h4 {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0.035em;
+    color: #000;
+    text-transform: uppercase;
+}
+
+#order_summery .memo p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0px;
+    color: #000;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-top: 20px;
+}
+
+tr .coustom {
+    width: 50px;
+    line-height: 30px;
+}
+
+tr td {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0px;
+    color: #000;
+    text-transform: uppercase;
+    border-bottom: none;
+    text-align: center;
+}
+
+.price {
+    text-align: right;
+}
+
+
+.price-bold {
+    text-align: right;
+    margin: 0;
+    font-weight: 600;
+}
+
+#order_summery .bag_details {
+    margin-bottom: 50px;
+}
+
+#order_summery .wer_adress {
+    padding-bottom: 80px;
+    border-bottom: 1px solid #6e6e6e;
+    margin-bottom: 100px;
+}
+
+#order_summery .contact {
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    color: #000;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#order_summery .contact .number {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 67px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 80px;
+    color: #000;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    background: #F9F9F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+#order_summery .contact .number i {
+    margin-right: 20px;
+    padding-right: 20px;
+    border-right: 1px solid #000;
+    height: 100%;
+    line-height: 100px;
+}
+
+#order_summery .adress {
+    background: #F9F9F9;
+}
+
+/* -----------order_summery */
+
+
+/* ============================================= last order page ============================================= */
